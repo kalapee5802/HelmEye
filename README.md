@@ -8,7 +8,7 @@
 
 - Helmet Detection: Utilizes a trained model to determine if a person is wearing a helmet.
 - Number Plate Detection: In cases where no helmet is detected, the system identifies the vehicle's number plate.
-Future Enhancements:
+## Future Enhancements:
 - Retrieve and display the vehicle owner's details from a database for non-compliant cases.
 - Create a simple frontend interface to present detection results.
 - Integrate NAFNET models to minimize motion blur and enhance detection accuracy.
