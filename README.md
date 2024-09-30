@@ -2,16 +2,16 @@
 
 ## Project Overview
 
-"Road Watch" is a computer vision project designed to enhance road safety by detecting whether a person is wearing a helmet. The system uses a YOLO model to check helmet usage. If the model determines that the person is not wearing a helmet, it proceeds to detect the vehicle's number plate. The future scope includes retrieving data about the vehicle's owner from a database and providing a basic frontend to display the results. Additionally, the project aims to incorporate advanced techniques for motion deblurring using Nafnet models.
+"Road Watch" is a computer vision initiative aimed at promoting road safety by detecting helmet compliance. The system utilizes a YOLO model to determine whether an individual is wearing a helmet. If the person is found to be without a helmet, the model then detects the vehicle's license plate. Future developments will involve accessing vehicle owner information from a database and building a basic frontend for result display. The project also plans to incorporate advanced motion deblurring techniques using Nafnet models.
 
 ## Features
 
-- Helmet Detection: Uses a trained model to identify whether a person is wearing a helmet.
-- Number Plate Detection: If no helmet is detected, the system will detect the number plate of the vehicle.
-- Future Enhancements:
-  - Retrieve and display data of the guilty vehicle owner from a database.
-  - Develop a basic frontend to show detection results.
-  - Implement NAFNET models to reduce motion blur and improve detection accuracy.
+- Helmet Detection: Utilizes a trained model to determine if a person is wearing a helmet.
+- Number Plate Detection: In cases where no helmet is detected, the system identifies the vehicle's number plate.
+Future Enhancements:
+- Retrieve and display the vehicle owner's details from a database for non-compliant cases.
+- Create a simple frontend interface to present detection results.
+- Integrate NAFNET models to minimize motion blur and enhance detection accuracy.
 
 
 
