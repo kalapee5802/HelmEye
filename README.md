@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-"Road Watch" is a computer vision initiative aimed at promoting road safety by detecting helmet compliance. The system utilizes a YOLO model to determine whether an individual is wearing a helmet. If the person is found to be without a helmet, the model then detects the vehicle's license plate. Future developments will involve accessing vehicle owner information from a database and building a basic frontend for result display. The project also plans to incorporate advanced motion deblurring techniques using Nafnet models.
+"HelmEye" is a computer vision initiative aimed at promoting road safety by detecting helmet compliance. The system utilizes a YOLO model to determine whether an individual is wearing a helmet. If the person is found to be without a helmet, the model then detects the vehicle's license plate. Future developments will involve accessing vehicle owner information from a database and building a basic frontend for result display. The project also plans to incorporate advanced motion deblurring techniques using Nafnet models.
 
 ## Features
 
